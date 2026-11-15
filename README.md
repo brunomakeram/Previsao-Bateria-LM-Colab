@@ -250,8 +250,10 @@ Para manter o código-fonte limpo, direto e sem poluição de comentários exces
 
 ---
 
-🚀 Próximos projetos  
+## 🚀 Próximos projetos
 
-Outros projetos serão postados em breve, com arquiteturas diferentes e níveis de complexidade maiores.
+Outros projetos de sistemas embarcados serão postados em breve, com níveis de complexidade maiores.
 
-👤 Autor: Bruno Zucker
+---
+
+## 👤 Autor: Bruno Maker
