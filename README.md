@@ -252,7 +252,7 @@ Para manter o código-fonte limpo, direto e sem poluição de comentários exces
 
 ## 🚀 Próximos projetos
 
-Outros projetos de sistemas embarcados serão postados em breve, com níveis de complexidade maiores.
+Outros projetos de IA serão postados em breve, com níveis de complexidade maiores.
 
 ---
 
